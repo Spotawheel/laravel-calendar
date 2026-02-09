@@ -1,6 +1,7 @@
 {
     "name": "edrisa/laravel-calendar",
     "description": "Laravel helper for FullCalendar.io",
+     "version": "1.0.1",
     "license": "MIT",
     "type": "package",
     "authors": [
